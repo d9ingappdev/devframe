@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.d9ing.dev</groupId>
+  <groupId>com.d9ingapp.dev</groupId>
   <artifactId>appframe</artifactId>
   <versioning>
-    <release>1.0-publish</release>
+    <release>1.1</release>
     <versions>
-      <version>1.0-publish</version>
+      <version>1.1</version>
     </versions>
-    <lastUpdated>20190213033458</lastUpdated>
+    <lastUpdated>20190213043235</lastUpdated>
   </versioning>
 </metadata>
